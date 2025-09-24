@@ -89,3 +89,4 @@ class Transaction(models.Model):
     amount=models.IntegerField(blank=True, null=True)
     def __str__(self):
         return f"{self.user.username} paid {self.payee} via {self.payment_method} on {self.time.strftime('%Y-%m-%d %H:%M')}"
+
