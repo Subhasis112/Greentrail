@@ -12,37 +12,37 @@ export default function Events() {
     {
       name: "Sarhul Festival",
       date: "April 2025",
-      img: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sarhul_festival.jpg",
+      img: "src/assets/sahrul-festive-jh.jpg",
       desc: "A vibrant tribal festival celebrating nature, marked with dance, music, and rituals under the sacred Sal tree.",
     },
     {
       name: "Karma Festival",
       date: "September 2025",
-      img: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Karma_dance.jpg",
+      img: "src/assets/Karma%20Festivals-jgarkhand.png",
       desc: "A tribal harvest festival with mesmerizing Karma dance and music, symbolizing prosperity and community bonding.",
     },
     {
       name: "Chhath Puja",
       date: "November 2025",
-      img: "https://upload.wikimedia.org/wikipedia/commons/f/f6/Chhath_Puja_at_sunrise.jpg",
+      img: "src/assets/chhath-puja-jh.jpg",
       desc: "One of the most spiritual festivals of Jharkhand, devoted to the Sun God, performed on riverbanks with great devotion.",
     },
     {
       name: "Makar Sankranti",
       date: "January 2025",
-      img: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Makar_Sankranti_Celebration.jpg",
+      img: "src/assets/makar sankranti.jpg",
       desc: "Harvest festival celebrated with kite flying, traditional sweets, and community gatherings.",
     },
     {
       name: "Holi",
       date: "March 2025",
-      img: "https://upload.wikimedia.org/wikipedia/commons/3/33/Holi_Celebration.jpg",
+      img: "src/assets/makar sankranti.jpg",
       desc: "Festival of colors with joyful celebrations, music, and dancing, marking the arrival of spring.",
     },
     {
       name: "Diwali",
       date: "October 2025",
-      img: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Diwali_Celebration.jpg",
+      img: "src/assets/diwali-festival-jh.jpg",
       desc: "Festival of lights celebrated with lamps, fireworks, and sweets, symbolizing victory of light over darkness.",
     },
   ];
