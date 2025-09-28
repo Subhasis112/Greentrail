@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Weather from "./Weather";
+import bgvid from "../assets/jharkhand1.mp4"
 
 // Images for travel cards
 const travelCards = [
@@ -62,7 +63,7 @@ export default function Home() {
      <div className="relative h-screen w-full">
   <video
     className="absolute inset-0 w-full h-full object-cover"
-    src="src/assets/jharkhand.mp4"
+    src={bgvid}
     autoPlay
     loop
     muted
