@@ -8,19 +8,19 @@ export default function Marketplace() {
   const items = [
     {
       name: "Tribal Handicrafts",
-      img: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tribal_handicrafts_Jharkhand.jpg",
+      img: "src/assets/tribal-handicrafts.jpg",
       desc: "Beautiful bamboo and wooden crafts made by tribal artisans.",
       link: "/tribal",
     },
     {
       name: "Paintings & Art",
-      img: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Dokra_art.jpg",
+      img: "src/assets/paintings&arts.jpg",
       desc: "Traditional brass and metal craft symbolizing Jharkhand’s cultural richness.",
       link: "/paintings",
     },
     {
       name: "Handwoven Textiles",
-      img: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Handloom_textiles.jpg",
+      img: "src/assets/Handwoven-textiles.jpg",
       desc: "Unique handwoven saris and fabrics showcasing tribal patterns.",
       link: "/handwoven",
     },
