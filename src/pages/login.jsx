@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import bglogin from"../assets/backg.jpg";
 export default function Login() {
   const [isLogin, setIsLogin] = useState(true);
 
@@ -7,7 +7,7 @@ export default function Login() {
     <div
       className="w-full h-screen flex items-center justify-center bg-cover bg-center relative"
       style={{
-        backgroundImage: "url('src/assets/backg.jpg')", // ✅ Jungle background
+        backgroundImage: `url(${bglogin})`, // ✅ Jungle background
       }}
     >
       {/* Dark overlay for readability */}
