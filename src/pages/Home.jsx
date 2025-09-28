@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import Weather from "./Weather";
-import bgvid from "../assets/jharkhand1.mp4"
+import bgvid from "../assets/jharkhand.mp4"
 
 // Images for travel cards
 const travelCards = [
